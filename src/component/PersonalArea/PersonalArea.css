@@ -1,0 +1,14 @@
+.container-user {
+    max-width: 800px;
+    margin: 25px auto;
+    border: 1px solid #eee;
+}
+
+.header-ui {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+h2 { text-align: center; }
+
