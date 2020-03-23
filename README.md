@@ -2,6 +2,7 @@
 ## Запуск проекта.
 
 ```
-npm i
-npm dev
+yarn install  
+yarn yarn start
 ```
+Open localhost:3000
