@@ -1,7 +1,4 @@
-# Contacts-Task
-Тестовое задание
-
-Запуск проекта. 
-
+# Запуск проекта.
 yarn install 
+
 yarn start
