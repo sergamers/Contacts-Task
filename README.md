@@ -3,6 +3,6 @@
 
 ```
 yarn install  
-yarn yarn start
+yarn start
 ```
 Open [localhost:3000](http://localhost:3000)
