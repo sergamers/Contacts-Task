@@ -1,4 +1,7 @@
-# Запуск проекта.
-yarn install 
 
-yarn start
+## Запуск проекта.
+
+```
+npm i
+npm dev
+```
